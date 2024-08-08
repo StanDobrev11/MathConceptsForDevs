@@ -6,3 +6,4 @@
 #
 #
 # print(summator(5)(1))
+print(2 ** 128)
