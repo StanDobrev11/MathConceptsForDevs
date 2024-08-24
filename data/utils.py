@@ -1,3 +1,4 @@
+import functools
 from time import time
 
 
